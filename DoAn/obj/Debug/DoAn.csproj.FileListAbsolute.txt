@@ -1,0 +1,141 @@
+D:\CODEEEEEEEEEEE\DoAn\DoAn\bin\Debug\DoAn.exe.config
+D:\CODEEEEEEEEEEE\DoAn\DoAn\bin\Debug\DoAn.exe
+D:\CODEEEEEEEEEEE\DoAn\DoAn\bin\Debug\DoAn.pdb
+D:\CODEEEEEEEEEEE\DoAn\DoAn\obj\Debug\DoAn.csproj.AssemblyReference.cache
+D:\CODEEEEEEEEEEE\DoAn\DoAn\obj\Debug\DoAn.Form1.resources
+D:\CODEEEEEEEEEEE\DoAn\DoAn\obj\Debug\DoAn.GUI.CaFeGUI.resources
+D:\CODEEEEEEEEEEE\DoAn\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+D:\CODEEEEEEEEEEE\DoAn\DoAn\obj\Debug\DoAn.csproj.GenerateResource.cache
+D:\CODEEEEEEEEEEE\DoAn\DoAn\obj\Debug\DoAn.csproj.CoreCompileInputs.cache
+D:\CODEEEEEEEEEEE\DoAn\DoAn\obj\Debug\DoAn.exe
+D:\CODEEEEEEEEEEE\DoAn\DoAn\obj\Debug\DoAn.pdb
+D:\CODEEEEEEEEEEE\DoAn\DoAn\bin\Debug\System.Windows.Forms.Ribbon.dll
+D:\CODEEEEEEEEEEE\DoAn\DoAn\obj\Debug\DoAn.GUI.frmNhanVien.resources
+D:\CODEEEEEEEEEEE\DoAn\DoAn\obj\Debug\DoAn.GUI.frmQuayOder.resources
+D:\CODEEEEEEEEEEE\DoAn\DoAn\obj\Debug\DoAn.csproj.CopyComplete
+C:\Users\Hoai Bao\DoAn\DoAn\DoAn\bin\Debug\DoAn.exe.config
+C:\Users\Hoai Bao\DoAn\DoAn\DoAn\bin\Debug\DoAn.exe
+C:\Users\Hoai Bao\DoAn\DoAn\DoAn\bin\Debug\DoAn.pdb
+C:\Users\Hoai Bao\DoAn\DoAn\DoAn\bin\Debug\System.Windows.Forms.Ribbon.dll
+C:\Users\Hoai Bao\DoAn\DoAn\DoAn\obj\Debug\DoAn.csprojAssemblyReference.cache
+C:\Users\Hoai Bao\DoAn\DoAn\DoAn\obj\Debug\DoAn.Form1.resources
+C:\Users\Hoai Bao\DoAn\DoAn\DoAn\obj\Debug\DoAn.GUI.frmNhanVien.resources
+C:\Users\Hoai Bao\DoAn\DoAn\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+C:\Users\Hoai Bao\DoAn\DoAn\DoAn\obj\Debug\DoAn.csproj.GenerateResource.cache
+C:\Users\Hoai Bao\DoAn\DoAn\DoAn\obj\Debug\DoAn.csproj.CoreCompileInputs.cache
+C:\Users\Hoai Bao\DoAn\DoAn\DoAn\obj\Debug\DoAn.csproj.CopyComplete
+C:\Users\Hoai Bao\DoAn\DoAn\DoAn\obj\Debug\DoAn.exe
+C:\Users\Hoai Bao\DoAn\DoAn\DoAn\obj\Debug\DoAn.pdb
+C:\Users\Hoai Bao\DoAn\DoAn\DoAn\obj\Debug\DoAn.GUI.frmDoanhThu.resources
+C:\Users\Hoai Bao\DoAn\DoAn\DoAn\obj\Debug\DoAn.GUI.frmDaiLy.resources
+C:\Users\Hoai Bao\DoAn\DoAn\DoAn\obj\Debug\DoAn.GUI.frmChamCong.resources
+C:\Users\Hoai Bao\DoAn\DoAn\DoAn\obj\Debug\DoAn.GUI.frmLuongNhanVien.resources
+C:\Users\Hoai Bao\DoAn\DoAn\DoAn\obj\Debug\DoAn.GUI.frmNhapNguyenLieu.resources
+C:\Users\Hoai Bao\DoAn\DoAn\DoAn\obj\Debug\DoAn.GUI.frmQuanLyBan.resources
+C:\Users\Hoai Bao\DoAn\DoAn\DoAn\obj\Debug\DoAn.GUI.frmQuanLyKho.resources
+C:\Users\Hoai Bao\DoAn\DoAn\DoAn\obj\Debug\DoAn.GUI.frmKem.resources
+C:\Users\Hoai Bao\DoAn\DoAn\DoAn\obj\Debug\DoAn.GUI.frmNuocNgot.resources
+C:\Users\Hoai Bao\DoAn\DoAn\DoAn\obj\Debug\DoAn.GUI.frmNuocPhaChe.resources
+C:\Users\Hoai Bao\DoAn\DoAn\DoAn\obj\Debug\DoAn.GUI.frmCaFe.resources
+C:\Users\Hoai Bao\DoAn\DoAn\DoAn\obj\Debug\DoAn.GUI.NhanVienGUI.resources
+C:\Users\Hoai Bao\DoAn\DoAn\DoAn\obj\Debug\DoAn.GUI.QuanLyGUI.resources
+C:\Users\Hoai Bao\DoAn\DoAn\DoAn\obj\Debug\DoAn.GUI.frmOrder.resources
+C:\Users\Hoai Bao\DoAn\DoAn\DoAn\obj\Debug\DoAn.GUI.frmThanhToan.resources
+D:\LT_HDT\DoAn\DoAn\bin\Debug\DoAn.exe.config
+D:\LT_HDT\DoAn\DoAn\bin\Debug\DoAn.exe
+D:\LT_HDT\DoAn\DoAn\bin\Debug\DoAn.pdb
+D:\LT_HDT\DoAn\DoAn\bin\Debug\System.Windows.Forms.Ribbon.dll
+D:\LT_HDT\DoAn\DoAn\obj\Debug\DoAn.csprojAssemblyReference.cache
+D:\LT_HDT\DoAn\DoAn\obj\Debug\DoAn.Form1.resources
+D:\LT_HDT\DoAn\DoAn\obj\Debug\DoAn.GUI.QuanLyGUI.resources
+D:\LT_HDT\DoAn\DoAn\obj\Debug\DoAn.GUI.frmOrder.resources
+D:\LT_HDT\DoAn\DoAn\obj\Debug\DoAn.GUI.frmDoanhThu.resources
+D:\LT_HDT\DoAn\DoAn\obj\Debug\DoAn.GUI.frmNhanVien.resources
+D:\LT_HDT\DoAn\DoAn\obj\Debug\DoAn.GUI.frmCaFe.resources
+D:\LT_HDT\DoAn\DoAn\obj\Debug\DoAn.GUI.NhanVienGUI.resources
+D:\LT_HDT\DoAn\DoAn\obj\Debug\DoAn.GUI.frmThanhToan.resources
+D:\LT_HDT\DoAn\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+D:\LT_HDT\DoAn\DoAn\obj\Debug\DoAn.csproj.GenerateResource.cache
+D:\LT_HDT\DoAn\DoAn\obj\Debug\DoAn.csproj.CoreCompileInputs.cache
+D:\LT_HDT\DoAn\DoAn\obj\Debug\DoAn.csproj.CopyComplete
+D:\LT_HDT\DoAn\DoAn\obj\Debug\DoAn.exe
+D:\LT_HDT\DoAn\DoAn\obj\Debug\DoAn.pdb
+C:\Users\NITRO 5\OneDrive\Desktop\DoAn\DoAn\bin\Debug\DoAn.exe.config
+C:\Users\NITRO 5\OneDrive\Desktop\DoAn\DoAn\bin\Debug\DoAn.exe
+C:\Users\NITRO 5\OneDrive\Desktop\DoAn\DoAn\bin\Debug\DoAn.pdb
+C:\Users\NITRO 5\OneDrive\Desktop\DoAn\DoAn\bin\Debug\System.Windows.Forms.Ribbon.dll
+C:\Users\NITRO 5\OneDrive\Desktop\DoAn\DoAn\obj\Debug\DoAn.csproj.AssemblyReference.cache
+C:\Users\NITRO 5\OneDrive\Desktop\DoAn\DoAn\obj\Debug\DoAn.Form1.resources
+C:\Users\NITRO 5\OneDrive\Desktop\DoAn\DoAn\obj\Debug\DoAn.GUI.QuanLyGUI.resources
+C:\Users\NITRO 5\OneDrive\Desktop\DoAn\DoAn\obj\Debug\DoAn.GUI.frmOrder.resources
+C:\Users\NITRO 5\OneDrive\Desktop\DoAn\DoAn\obj\Debug\DoAn.GUI.frmDoanhThu.resources
+C:\Users\NITRO 5\OneDrive\Desktop\DoAn\DoAn\obj\Debug\DoAn.GUI.frmNhanVien.resources
+C:\Users\NITRO 5\OneDrive\Desktop\DoAn\DoAn\obj\Debug\DoAn.GUI.frmCaFe.resources
+C:\Users\NITRO 5\OneDrive\Desktop\DoAn\DoAn\obj\Debug\DoAn.GUI.NhanVienGUI.resources
+C:\Users\NITRO 5\OneDrive\Desktop\DoAn\DoAn\obj\Debug\DoAn.GUI.frmThanhToan.resources
+C:\Users\NITRO 5\OneDrive\Desktop\DoAn\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+C:\Users\NITRO 5\OneDrive\Desktop\DoAn\DoAn\obj\Debug\DoAn.csproj.GenerateResource.cache
+C:\Users\NITRO 5\OneDrive\Desktop\DoAn\DoAn\obj\Debug\DoAn.csproj.CoreCompileInputs.cache
+C:\Users\NITRO 5\OneDrive\Desktop\DoAn\DoAn\obj\Debug\DoAn.csproj.CopyComplete
+C:\Users\NITRO 5\OneDrive\Desktop\DoAn\DoAn\obj\Debug\DoAn.exe
+C:\Users\NITRO 5\OneDrive\Desktop\DoAn\DoAn\obj\Debug\DoAn.pdb
+D:\DA1\DoAn\DoAn\bin\Debug\DoAn.exe.config
+D:\DA1\DoAn\DoAn\bin\Debug\DoAn.exe
+D:\DA1\DoAn\DoAn\bin\Debug\DoAn.pdb
+D:\DA1\DoAn\DoAn\bin\Debug\System.Windows.Forms.Ribbon.dll
+D:\DA1\DoAn\DoAn\obj\Debug\DoAn.csprojAssemblyReference.cache
+D:\DA1\DoAn\DoAn\obj\Debug\DoAn.Form1.resources
+D:\DA1\DoAn\DoAn\obj\Debug\DoAn.GUI.QuanLyGUI.resources
+D:\DA1\DoAn\DoAn\obj\Debug\DoAn.GUI.frmOrder.resources
+D:\DA1\DoAn\DoAn\obj\Debug\DoAn.GUI.frmDoanhThu.resources
+D:\DA1\DoAn\DoAn\obj\Debug\DoAn.GUI.frmNhanVien.resources
+D:\DA1\DoAn\DoAn\obj\Debug\DoAn.GUI.frmCaFe.resources
+D:\DA1\DoAn\DoAn\obj\Debug\DoAn.GUI.NhanVienGUI.resources
+D:\DA1\DoAn\DoAn\obj\Debug\DoAn.GUI.frmThanhToan.resources
+D:\DA1\DoAn\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+D:\DA1\DoAn\DoAn\obj\Debug\DoAn.csproj.GenerateResource.cache
+D:\DA1\DoAn\DoAn\obj\Debug\DoAn.csproj.CoreCompileInputs.cache
+D:\DA1\DoAn\DoAn\obj\Debug\DoAn.csproj.CopyComplete
+D:\DA1\DoAn\DoAn\obj\Debug\DoAn.exe
+D:\DA1\DoAn\DoAn\obj\Debug\DoAn.pdb
+C:\Users\NITRO 5\OneDrive\Desktop\DoAn\DoAn\obj\Debug\DoAn.GUI.frmXemHoaDon.resources
+D:\Nhom_3\DoAn\DoAn\bin\Debug\DoAn.exe.config
+D:\Nhom_3\DoAn\DoAn\bin\Debug\DoAn.exe
+D:\Nhom_3\DoAn\DoAn\bin\Debug\DoAn.pdb
+D:\Nhom_3\DoAn\DoAn\bin\Debug\System.Windows.Forms.Ribbon.dll
+D:\Nhom_3\DoAn\DoAn\obj\Debug\DoAn.csprojAssemblyReference.cache
+D:\Nhom_3\DoAn\DoAn\obj\Debug\DoAn.Form1.resources
+D:\Nhom_3\DoAn\DoAn\obj\Debug\DoAn.GUI.frmXemHoaDon.resources
+D:\Nhom_3\DoAn\DoAn\obj\Debug\DoAn.GUI.QuanLyGUI.resources
+D:\Nhom_3\DoAn\DoAn\obj\Debug\DoAn.GUI.frmOrder.resources
+D:\Nhom_3\DoAn\DoAn\obj\Debug\DoAn.GUI.frmDoanhThu.resources
+D:\Nhom_3\DoAn\DoAn\obj\Debug\DoAn.GUI.frmNhanVien.resources
+D:\Nhom_3\DoAn\DoAn\obj\Debug\DoAn.GUI.frmCaFe.resources
+D:\Nhom_3\DoAn\DoAn\obj\Debug\DoAn.GUI.NhanVienGUI.resources
+D:\Nhom_3\DoAn\DoAn\obj\Debug\DoAn.GUI.frmThanhToan.resources
+D:\Nhom_3\DoAn\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+D:\Nhom_3\DoAn\DoAn\obj\Debug\DoAn.csproj.GenerateResource.cache
+D:\Nhom_3\DoAn\DoAn\obj\Debug\DoAn.csproj.CoreCompileInputs.cache
+D:\Nhom_3\DoAn\DoAn\obj\Debug\DoAn.csproj.CopyComplete
+D:\Nhom_3\DoAn\DoAn\obj\Debug\DoAn.exe
+D:\Nhom_3\DoAn\DoAn\obj\Debug\DoAn.pdb
+D:\CODEEEEEEEEEEE\New folder\DoAn\DoAn\bin\Debug\DoAn.exe.config
+D:\CODEEEEEEEEEEE\New folder\DoAn\DoAn\bin\Debug\DoAn.exe
+D:\CODEEEEEEEEEEE\New folder\DoAn\DoAn\bin\Debug\DoAn.pdb
+D:\CODEEEEEEEEEEE\New folder\DoAn\DoAn\bin\Debug\System.Windows.Forms.Ribbon.dll
+D:\CODEEEEEEEEEEE\New folder\DoAn\DoAn\obj\Debug\DoAn.csproj.AssemblyReference.cache
+D:\CODEEEEEEEEEEE\New folder\DoAn\DoAn\obj\Debug\DoAn.Form1.resources
+D:\CODEEEEEEEEEEE\New folder\DoAn\DoAn\obj\Debug\DoAn.GUI.frmXemHoaDon.resources
+D:\CODEEEEEEEEEEE\New folder\DoAn\DoAn\obj\Debug\DoAn.GUI.QuanLyGUI.resources
+D:\CODEEEEEEEEEEE\New folder\DoAn\DoAn\obj\Debug\DoAn.GUI.frmOrder.resources
+D:\CODEEEEEEEEEEE\New folder\DoAn\DoAn\obj\Debug\DoAn.GUI.frmDoanhThu.resources
+D:\CODEEEEEEEEEEE\New folder\DoAn\DoAn\obj\Debug\DoAn.GUI.frmNhanVien.resources
+D:\CODEEEEEEEEEEE\New folder\DoAn\DoAn\obj\Debug\DoAn.GUI.frmCaFe.resources
+D:\CODEEEEEEEEEEE\New folder\DoAn\DoAn\obj\Debug\DoAn.GUI.NhanVienGUI.resources
+D:\CODEEEEEEEEEEE\New folder\DoAn\DoAn\obj\Debug\DoAn.GUI.frmThanhToan.resources
+D:\CODEEEEEEEEEEE\New folder\DoAn\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+D:\CODEEEEEEEEEEE\New folder\DoAn\DoAn\obj\Debug\DoAn.csproj.GenerateResource.cache
+D:\CODEEEEEEEEEEE\New folder\DoAn\DoAn\obj\Debug\DoAn.csproj.CoreCompileInputs.cache
+D:\CODEEEEEEEEEEE\New folder\DoAn\DoAn\obj\Debug\DoAn.csproj.CopyComplete
+D:\CODEEEEEEEEEEE\New folder\DoAn\DoAn\obj\Debug\DoAn.exe
+D:\CODEEEEEEEEEEE\New folder\DoAn\DoAn\obj\Debug\DoAn.pdb
